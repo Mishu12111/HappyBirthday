@@ -10,7 +10,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url("/jason-leung-Xaanw0s0pMk-unsplash\ \(1\).jpg");
+  background-image: url("./jason-leung-Xaanw0s0pMk-unsplash\ \(1\).jpg");
   background-position: center;
 }
 main {
